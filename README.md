@@ -2,7 +2,7 @@
 Livros abertos da área de computação 
 
 Book Title	Author	OpenURL
-Introduction to Evolutionary Computing	A.E. Eiben, J.E. Smith	http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8
+Introduction to Evolutionary Computing	A.E. Eiben, J.E. Smith	http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8 <br>
 Data Structures and Algorithms with Python	Kent D. Lee, Steve Hubbard	http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
 LaTeX in 24 Hours	Dilip Datta	http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
 Automata and Computability	Dexter C. Kozen	http://link.springer.com/openurl?genre=book&isbn=978-1-4612-1844-9
